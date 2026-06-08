@@ -2,7 +2,7 @@
 <!--                  HEADER — Animated Banner                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=220&section=header&text=Reno%20Hidayat&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Flutter%20•%20Laravel%20•%20AI&descSize=16&descAlignY=60&animation=twinkling&fontAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=220&section=header&text=M. Reno%20Hidayat&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Flutter%20•%20Laravel%20•%20AI&descSize=16&descAlignY=60&animation=twinkling&fontAlign=50"/>
 </div>
 
 <div align="center">
