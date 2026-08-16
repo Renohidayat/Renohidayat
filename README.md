@@ -2,11 +2,11 @@
 <!--                  HEADER — Animated Banner                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=220&section=header&text=Reno%20Hidayat&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20AI%20%26%20Automation%20%7C%20IoT&descSize=16&descAlignY=60&animation=twinkling&fontAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=220&section=header&text=Reno%20Hidayat&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20AI%20and%20Automation%20%7C%20IoT&descSize=16&descAlignY=60&animation=twinkling&fontAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&lines=👋+Hey+there%2C+I'm+Reno+—+nice+to+meet+you!;📱+Flutter+%7C+Desktop+•+Mobile+•+Web;🌐+Laravel+%26+Node.js+%7C+Backend+API+Dev;🤖+Automation+%7C+JS+%26+Python+Bots;🧠+AI+Enthusiast+%7C+SVM+%26+Computer+Vision;🚀+Building+systems+that+solve+real+problems"
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&lines=👋+Hey+there%2C+I'm+Reno+—+nice+to+meet+you!;📱+Flutter+%7C+Desktop+•+Mobile+•+Web;🌐+Laravel+and+Node.js+%7C+Backend+API+Dev;🤖+Automation+%7C+JS+and+Python+Bots;🧠+AI+Enthusiast+%7C+SVM+and+Computer+Vision;🚀+Building+systems+that+solve+real+problems"
     alt="Typing Animation"/>
 </div>
 
