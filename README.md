@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://typingsvg.vercel.app/?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&lines=👋+Hey+there%2C+I'm+Reno+—+nice+to+meet+you!;📱+Flutter+%7C+Desktop+•+Mobile+•+Web;🌐+Laravel+and+Node.js+%7C+Backend+API+Dev;🤖+Automation+%7C+JS+and+Python+Bots;🧠+AI+Enthusiast+%7C+SVM+and+Computer+Vision;🚀+Building+systems+that+solve+real+problems"
-    alt="Typing Animation"/>
+    />
 </div>
 
 <br/>
