@@ -1,99 +1,230 @@
-<h1 align="center">Hi there, I'm Reno Hidayat 👋</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  HEADER — Animated Banner                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=220&section=header&text=Reno%20Hidayat&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20AI%20%26%20Automation%20%7C%20IoT&descSize=16&descAlignY=60&animation=twinkling&fontAlign=50"/>
+</div>
 
-<h3 align="center">Fullstack Developer | AI Enthusiast | Tech Explorer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&lines=👋+Hey+there%2C+I'm+Reno+—+nice+to+meet+you!;📱+Flutter+%7C+Desktop+•+Mobile+•+Web;🌐+Laravel+%26+Node.js+%7C+Backend+API+Dev;🤖+Automation+%7C+JS+%26+Python+Bots;🧠+AI+Enthusiast+%7C+SVM+%26+Computer+Vision;🚀+Building+systems+that+solve+real+problems"
+    alt="Typing Animation"/>
+</div>
 
-<p align="center">
-  I am a software developer from Indonesia with a strong interest in building cross-platform applications, scalable backend systems, and AI-driven solutions. My projects range from web and mobile apps to automation bots, machine learning models, and IoT systems.
-</p>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Renohidayat&style=flat-square&color=00F5FF&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Renohidayat?label=Followers&style=flat-square&color=00F5FF&labelColor=0d1117" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Laravel%20%7C%20AI-00F5FF?style=flat-square&labelColor=0d1117" alt="Focus"/>
 </div>
 
-<br />
+<br/>
 
-## 🧑‍💻 What I Do
-- 🌐 **Web & Backend:** Building robust applications and RESTful APIs (Laravel, Next.js, Node.js).
-- 📱 **Mobile & Desktop App:** Crafting cross-platform applications (Flutter, Dart).
-- 🤖 **Automation & Bots:** Creating WhatsApp & Telegram bots, and automated scripts (Selenium).
-- 🧠 **Data Science & AI:** Implementing Machine Learning models (SVM) and Computer Vision solutions (OpenCV, MediaPipe).
-- 🔌 **IoT:** Tinkering with hardware systems (ESP8266, NodeMCU, RFID).
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🛠️ Languages & Tools
+## 🧑‍💻 About Me
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="58%">
 
-**Frameworks, Libraries & Technologies:**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+```yaml
+# reno_hidayat.yaml
+name        : "Reno Hidayat"
+role        : "Software Developer"
+location    : "Indonesia 🇮🇩"
+languages   : [JavaScript, Python, PHP, Dart, C, HTML/CSS]
 
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+specialties :
+  - "Web & Backend — Laravel, Next.js, Node.js"
+  - "Cross-platform Mobile & Desktop — Flutter"
+  - "Automation & Bots — WhatsApp, Telegram, Selenium"
+  - "Data Science & AI — SVM, OpenCV, MediaPipe"
+  - "IoT & Hardware — ESP8266, NodeMCU"
 
-<br />
+top_projects :
+  - "🎓 ScriptEase App (Flutter Desktop)"
+  - "🏫 SIAKAD SDN Cadas Pangeran (Laravel)"
+  - "🤖 Ajax Delivery Bot (Node.js)"
+  - "🧠 Analisis Sentimen Ijazah (Python/SVM)"
 
-## 📌 Featured Projects
+ask_me_about : [Laravel, Flutter, Node.js, ML]
+hobbies      : [Tech Exploration, Gaming, Open Source]
+```
 
-*Here are some highlighted projects derived directly from my GitHub repositories:*
+</td>
+<td valign="top" width="42%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renohidayat&bg_color=0d1117&color=00F5FF&line=0066FF&point=00F5FF&hide_border=true&radius=8&area=true&area_color=002244" width="100%" alt="Activity Graph"/>
+</td>
+  </tr>
+</table>
 
-### 📱 Applications & Systems
-* **[ScriptEase App](https://github.com/Renohidayat/scriptease_app)**
-  An AI-powered academic word processor for Windows, aiming to streamline thesis writing. *(Dart, Flutter)*
-* **[SIAKAD SD Negeri Cadas Pangeran](https://github.com/Renohidayat/sdn_cadaspangeran)**
-  Academic Information System designed with the Rapid Application Development (RAD) method. *(PHP, Laravel 8)*
-* **[SmartGov SI-EKA](https://github.com/Renohidayat/smartgov-sieka)**
-  A Single Page Application (SPA) web platform for handling local government programs related to stunting prevention. *(HTML, Web)*
+<br/>
 
-### 🤖 AI, Automation & Hardware
-* **[NFS Virtual Hand Controller](https://github.com/Renohidayat/nfs-virtual-hand-controller)**
-  A virtual gamepad/mouse using camera and hand tracking (OpenCV & MediaPipe). Ultra-low latency controller for PC racing games like Need for Speed. *(Python)*
-* **[Analisis Sentimen Ijazah Jokowi](https://github.com/Renohidayat/analisis-sentimen-ijazah-jokowi)**
-  Thesis project: Sentiment analysis of YouTube comments using Support Vector Machine (SVM) and Grid Search. *(Python, Jupyter Notebook)*
-* **[Ajax Delivery Bot](https://github.com/Renohidayat/ajax-delivery-bot)**
-  An automated 24/7 WhatsApp bot for a local food delivery service in Sumedang, built using Baileys. *(JavaScript, Node.js)*
-* **[ESP8266 WiFi Portal](https://github.com/Renohidayat/ESP8266-WiFi-Portal)**
-  ESP8266-based Captive Portal Web Server with a modern Tailwind CSS interface and a prank jumpscare feature. *(C/C++, NodeMCU)*
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br />
-
-## 📊 GitHub Stats
+## ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renohidayat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renohidayat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_radius=10" height="180" alt="Top Languages"/>
+
+**🚀 Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,php,dart,c,html,css&theme=dark&perline=10" alt="Languages"/>
+
+<br/><br/>
+
+**📱 Mobile & Frontend**
+
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,tailwind&theme=dark&perline=10" alt="Mobile & Frontend"/>
+
+<br/><br/>
+
+**🌐 Backend, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,firebase,nginx&theme=dark&perline=10" alt="Backend & Cloud"/>
+
+<br/><br/>
+
+**🧠 AI & Environment**
+
+<img src="https://skillicons.dev/icons?i=opencv,selenium,vscode,git,github,postman&theme=dark&perline=10" alt="Tools"/>
+
 </div>
 
-<br />
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renohidayat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renohidayat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_radius=10&langs_count=8" height="175" alt="Top Languages"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Renohidayat&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=0066FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=00F5FF&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<br />
+<br/>
 
-## 🌐 Get in Touch
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       TROPHIES                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-Feel free to reach out to me for collaborations, questions, or just to say hi!
+## 🏆 GitHub Trophies
 
-- 📧 **Email:** [your-email@example.com]
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-- 🌍 **Portfolio:** [Your Portfolio Website URL]
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Renohidayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     CURRENT FOCUS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Icon | Area | Description |
+|:----:|:----:|:------------|
+| 📱 | **Desktop & Mobile Apps** | Building cross-platform apps using Flutter & Dart |
+| 🌐 | **Web & API Backend** | Crafting scalable systems with Laravel, Next.js & Node.js |
+| 🤖 | **Automation & Bots** | Developing WhatsApp & Telegram bots, and automated scripts |
+| 🧠 | **AI & Data Science** | Implementing SVM models and Computer Vision (MediaPipe/OpenCV) |
+| 🔌 | **IoT Systems** | Experimenting with ESP8266, NodeMCU, and RFID integrations |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 ScriptEase App</h3>
+      <p>AI-Powered Academic Word Processor for Windows. Designed to streamline thesis writing.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 SIAKAD SDN Cadas Pangeran</h3>
+      <p>Academic Information System (SIAKAD) built with the Rapid Application Development (RAD) method.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Ajax Delivery Bot</h3>
+      <p>An automated 24/7 WhatsApp bot for a local food delivery service in Sumedang.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Analisis Sentimen Ijazah</h3>
+      <p>Sentiment analysis of YouTube comments using Support Vector Machine (SVM) & Grid Search.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renohidayat)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      DEV PHILOSOPHY                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ---
-<div align="center">
-  <i>Building systems that solve real problems.</i>
+
+*" I don't just write code — I build systems that solve problems. "*
+
+⭐ *If you find my work useful, dropping a star means a lot!*
+
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FOOTER — Wave Banner                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0066FF,100:0d1117&height=130&section=footer"/>
