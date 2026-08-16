@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&lines=👋+Hey+there%2C+I'm+Reno+—+nice+to+meet+you!;📱+Flutter+%7C+Desktop+•+Mobile+•+Web;🌐+Laravel+and+Node.js+%7C+Backend+API+Dev;🤖+Automation+%7C+JS+and+Python+Bots;🧠+AI+Enthusiast+%7C+SVM+and+Computer+Vision;🚀+Building+systems+that+solve+real+problems"
+  <img src="https://typingsvg.vercel.app/?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=620&lines=👋+Hey+there%2C+I'm+Reno+—+nice+to+meet+you!;📱+Flutter+%7C+Desktop+•+Mobile+•+Web;🌐+Laravel+and+Node.js+%7C+Backend+API+Dev;🤖+Automation+%7C+JS+and+Python+Bots;🧠+AI+Enthusiast+%7C+SVM+and+Computer+Vision;🚀+Building+systems+that+solve+real+problems"
     alt="Typing Animation"/>
 </div>
 
@@ -126,7 +126,9 @@ hobbies      : [Tech Exploration, Gaming, Open Source]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renohidayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <!-- Trophies temporarily disabled due to external server (github-profile-trophy) being down globally -->
+  <p><i>Trophies currently unavailable. Check back later!</i></p>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Renohidayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/> -->
 </div>
 
 <br/>
