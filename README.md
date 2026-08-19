@@ -97,7 +97,11 @@ Feel free to reach out!
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Renohidayat&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=0066FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=00F5FF&border_radius=10" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renohidayat/Renohidayat/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renohidayat/Renohidayat/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renohidayat/Renohidayat/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
