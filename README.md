@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=200&section=header&text=Reno%20Hidayat&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer&descSize=16&descAlignY=58&animation=twinkling&fontAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=200&section=header&text=M.%20Reno%20Hidayat&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer&descSize=16&descAlignY=58&animation=twinkling&fontAlign=50"/>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ```bash
 ~/reno $ whoami
-Reno Hidayat — Software Developer, Indonesia
+M. Reno Hidayat — Software Developer, Indonesia
 
 ~/reno $ cat interests.md
 I mainly work with Flutter for mobile & desktop apps,
