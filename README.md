@@ -106,6 +106,36 @@ Feel free to reach out!
 
 <br/>
 
+## Popular Repos
+
+<div align="center">
+  <a href="https://github.com/Renohidayat/scriptease_app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=scriptease_app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="scriptease_app"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Renohidayat/ajax-delivery-bot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=ajax-delivery-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="ajax-delivery-bot"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Renohidayat/analisis-sentimen-ijazah-jokowi">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=analisis-sentimen-ijazah-jokowi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="analisis-sentimen-ijazah-jokowi"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Renohidayat/tiktok-live-spammer">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=tiktok-live-spammer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="tiktok-live-spammer"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Renohidayat/ESP8266-WiFi-Portal">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=ESP8266-WiFi-Portal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="ESP8266-WiFi-Portal"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Renohidayat/Sistem-Absensi-Otomatis-RFID">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=Sistem-Absensi-Otomatis-RFID&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="Sistem-Absensi-Otomatis-RFID"/>
+  </a>
+</div>
+
+<br/>
+
 ## Projects
 
 <table>
