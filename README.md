@@ -39,6 +39,17 @@ Feel free to reach out!
 </td>
 <td valign="top" width="45%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renohidayat&bg_color=0d1117&color=00F5FF&line=0066FF&point=00F5FF&hide_border=true&radius=8&area=true&area_color=002244" width="100%" alt="Activity Graph"/>
+
+<br/>
+
+```bash
+~/reno $ cat now.md
+ Working on : Flutter desktop apps
+ Learning   : AI/ML, Computer Vision
+ Building   : WhatsApp bots for clients
+ Stack      : Flutter + Laravel + Node.js
+```
+
 </td>
   </tr>
 </table>
