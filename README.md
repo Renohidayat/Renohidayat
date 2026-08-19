@@ -16,17 +16,25 @@
   <tr>
     <td valign="top" width="55%">
 
-Halo! Saya Reno, software developer dari Indonesia.
+```bash
+~/reno $ whoami
+Reno Hidayat — Software Developer, Indonesia
 
-Sehari-hari saya ngoding pakai **Flutter** buat bikin aplikasi mobile & desktop, **Laravel** dan **Node.js** buat backend, sama **Python** kalau ada project data science atau automation.
+~/reno $ cat interests.md
+I mainly work with Flutter for mobile & desktop apps,
+Laravel and Node.js for backend services, and Python
+when theres a data science or automation project.
 
-Beberapa hal yang saya suka explore:
-- Bikin bot WhatsApp & Telegram buat kebutuhan bisnis lokal
-- Eksperimen computer vision pakai OpenCV & MediaPipe
-- Ngulik IoT pakai ESP8266 dan NodeMCU
-- Cari cara bikin workflow development lebih efisien
+Things I like to tinker with:
+ - Building WhatsApp & Telegram bots for local businesses
+ - Computer vision experiments with OpenCV & MediaPipe
+ - IoT stuff with ESP8266 and NodeMCU
+ - Finding ways to make my dev workflow less painful
 
-Kalau ada project menarik atau mau kolaborasi, feel free to reach out!
+~/reno $ echo $STATUS
+Open to interesting projects and collaborations.
+Feel free to reach out!
+```
 
 </td>
 <td valign="top" width="45%">
@@ -83,19 +91,19 @@ Kalau ada project menarik atau mau kolaborasi, feel free to reach out!
 
 <br/>
 
-## Project yang Saya Bangun
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>ScriptEase App</h3>
-      <p>Word processor buat nulis skripsi di Windows. Ada fitur AI buat bantu formatting dan penulisan akademik. Dibangun pakai Flutter.</p>
+      <p>A Windows word processor for writing theses. Has AI features to help with academic formatting and writing. Built with Flutter.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>SIAKAD SDN Cadas Pangeran</h3>
-      <p>Sistem informasi akademik buat SD. Guru bisa input nilai, cetak rapor, dan kelola data siswa. Full Laravel.</p>
+      <p>Academic information system for an elementary school. Teachers can input grades, print report cards, and manage student data. Built entirely in Laravel.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
@@ -103,13 +111,13 @@ Kalau ada project menarik atau mau kolaborasi, feel free to reach out!
   <tr>
     <td width="50%" valign="top">
       <h3>Ajax Delivery Bot</h3>
-      <p>Bot WhatsApp 24 jam buat layanan pesan antar makanan di Sumedang. Customer bisa order langsung dari chat.</p>
+      <p>A 24/7 WhatsApp bot for a local food delivery service in Sumedang. Customers can place orders directly through chat.</p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td width="50%" valign="top">
       <h3>Analisis Sentimen Ijazah</h3>
-      <p>Riset analisis sentimen komentar YouTube soal ijazah pakai metode SVM dan Grid Search. Bagian dari tugas kuliah.</p>
+      <p>Sentiment analysis of YouTube comments about "Ijazah" using SVM and Grid Search. Part of a college research project.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     </td>
