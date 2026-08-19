@@ -127,8 +127,8 @@ Feel free to reach out!
     <td width="50%" valign="top">
       <h3>Web FEB UNSAP</h3>
       <p>Faculty website for FEB UNSAP. A mobile-friendly web app built as a final project.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>Analisis Sentimen Ijazah</h3>
