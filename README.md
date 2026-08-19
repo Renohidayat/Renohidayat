@@ -106,36 +106,6 @@ Feel free to reach out!
 
 <br/>
 
-## Popular Repos
-
-<div align="center">
-  <a href="https://github.com/Renohidayat/scriptease_app">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=scriptease_app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="scriptease_app"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Renohidayat/ajax-delivery-bot">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=ajax-delivery-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="ajax-delivery-bot"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Renohidayat/analisis-sentimen-ijazah-jokowi">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=analisis-sentimen-ijazah-jokowi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="analisis-sentimen-ijazah-jokowi"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Renohidayat/tiktok-live-spammer">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=tiktok-live-spammer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="tiktok-live-spammer"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Renohidayat/ESP8266-WiFi-Portal">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=ESP8266-WiFi-Portal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="ESP8266-WiFi-Portal"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Renohidayat/Sistem-Absensi-Otomatis-RFID">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Renohidayat&repo=Sistem-Absensi-Otomatis-RFID&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" alt="Sistem-Absensi-Otomatis-RFID"/>
-  </a>
-</div>
-
-<br/>
-
 ## Projects
 
 <table>
@@ -147,18 +117,18 @@ Feel free to reach out!
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>SIAKAD SDN Cadas Pangeran</h3>
-      <p>Academic information system for an elementary school. Teachers can input grades, print report cards, and manage student data. Built entirely in Laravel.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <h3>SIPENA UNSAP</h3>
+      <p>Academic grading system for FEB UNSAP. Handles student assessments, grade management, and exam data processing.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Ajax Delivery Bot</h3>
-      <p>A 24/7 WhatsApp bot for a local food delivery service in Sumedang. Customers can place orders directly through chat.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <h3>Web FEB UNSAP</h3>
+      <p>Faculty website for FEB UNSAP. A mobile-friendly web app built as a final project.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>Analisis Sentimen Ijazah</h3>
