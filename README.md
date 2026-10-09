@@ -3,10 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Renohidayat&style=flat-square&color=00F5FF&label=Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Renohidayat?label=Followers&style=flat-square&color=00F5FF&labelColor=0d1117" alt="Followers"/>
-</div>
+
 
 <br/>
 
