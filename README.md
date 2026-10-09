@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="M. Reno Hidayat, Flutter, Firebase, Python"/>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1f3d,80:0d3060,100:00F5FF&height=200&section=header&text=M.%20Reno%20Hidayat&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer&descSize=16&descAlignY=58&animation=twinkling&fontAlign=50"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Renohidayat&style=flat-square&color=00F5FF&label=Views" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Renohidayat?label=Followers&style=flat-square&color=00F5FF&labelColor=0d1117" alt="Followers"/>
+</div>
 
 ## About
 
