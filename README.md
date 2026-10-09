@@ -1,35 +1,32 @@
 # M. Reno Hidayat
 
-Mobile and backend developer from Indonesia.
+Developer from Indonesia. I build Flutter apps and the backend services behind them (Firebase, Node.js, Python), and I do applied machine learning in Python.
 
-I build Flutter apps for mobile and desktop, and the Laravel and Node.js services behind them. I use Python for data and automation work.
-
-Currently building Flutter desktop apps and WhatsApp bots for clients, and studying machine learning and computer vision.
+Currently building [ScriptEase](https://github.com/Renohidayat/scriptease_app) and WhatsApp bots for clients.
 
 ## Selected work
 
-- **[ScriptEase](#)**: Windows word processor for writing theses, with AI assistance for academic formatting and writing. Flutter, Dart.
-- **[SIPENA UNSAP](#)**: academic grading system for FEB UNSAP, covering student assessments, grade management, and exam data processing. Node.js.
-- **[Web FEB UNSAP](#)**: faculty website for FEB UNSAP with a mobile-friendly layout. Laravel.
-- **[Sentiment analysis of "Ijazah" YouTube comments](#)**: SVM classifier tuned with Grid Search, built for a university research project. Python, scikit-learn.
+**[FEB UNSAP Exam & Attendance System](https://github.com/Renohidayat/feb-unsap-exam)**
+Digital exam and attendance platform for the Faculty of Economics and Business at UNSAP: Flutter Android app, iOS PWA, and a React admin portal on a Firebase backend, designed for thousands of concurrent students. Team of three; I was system analyst, architect, and lead backend developer. My part: the Firestore / Realtime Database split for live heartbeat monitoring, Cloud Functions, a rate limiter against brute-force on login and exam codes, and batched FCM push notifications.
+`Flutter` `TypeScript` `Firebase` `React`
 
-<!--
-TODO before publishing, for each project above:
-1. Replace (#) with a real repo or demo link. If the code is private, link a write-up or screenshots instead.
-2. Add one fact about outcome or scale: users, records handled, dataset size, accuracy/F1.
-3. Add your role in one phrase (solo, lead, part of a team of N).
-Remove any project you cannot back with a link or a number.
--->
+**[ScriptEase](https://github.com/Renohidayat/scriptease_app)**
+Local-first academic word processor for Windows, aimed at Indonesian students writing theses. Flutter UI talking to a Python FastAPI service for RAG over a PDF library, Zotero citation parsing, and APA / IEEE formatting. In active development.
+`Flutter` `Dart` `Python` `FastAPI`
+
+**[Thesis: sentiment analysis of Indonesian YouTube comments](https://github.com/Renohidayat/analisis-sentimen-ijazah-jokowi)**
+SVM with GridSearchCV on 2,561 labelled comments, with labels validated by three annotators (Fleiss' kappa 0.86). Best model: RBF kernel, 75.2% accuracy and 73.5% weighted F1. SMOTE lowered test F1, and the repo documents a data leakage issue I found and fixed. Served through a FastAPI + React web app.
+`Python` `scikit-learn`
+
+<!-- TODO: if the exam system ran a real exam, add the scale (students, sessions). A measured number beats "designed for". -->
 
 ## Stack
 
-Flutter, Dart, Laravel, PHP, Node.js, JavaScript, Python, MySQL.
-Also used: Firebase, Next.js, Tailwind CSS, OpenCV, Nginx.
-
-Side experiments: WhatsApp and Telegram bots for local businesses, OpenCV and MediaPipe, ESP8266 / NodeMCU.
+**Daily use:** Dart / Flutter, TypeScript / JavaScript (Node.js, Firebase Cloud Functions, React), Python (FastAPI, scikit-learn), Firebase.
+**Also used:** Laravel, PHP, MySQL, Next.js, Tailwind CSS, Docker, OpenCV, C++ on ESP8266.
 
 ## Contact
 
-Open to project work and collaboration: Flutter apps, Laravel / Node.js backends, chat bots.
+Open to project work and collaboration: Flutter apps, Firebase / Node.js or Python backends, ML prototypes, chat bots.
 
 [LinkedIn](https://www.linkedin.com/in/m-reno-hidayat-95b4a5372) · [hidayatreno085@gmail.com](mailto:hidayatreno085@gmail.com)
