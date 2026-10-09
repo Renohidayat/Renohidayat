@@ -8,82 +8,153 @@
   <img src="https://img.shields.io/github/followers/Renohidayat?label=Followers&style=flat-square&color=00F5FF&labelColor=0d1117" alt="Followers"/>
 </div>
 
-## About
+<br/>
 
-```bash
-~/reno $ whoami
-M. Reno Hidayat · developer · Indonesia
-
-~/reno $ cat focus.md
-Flutter apps (mobile and desktop) and the backends behind them:
-Firebase + Cloud Functions, Node.js, Python FastAPI.
-Applied machine learning in Python.
-
-~/reno $ cat now.md
-building   ScriptEase, a local-first academic word processor
-building   WhatsApp bots for clients
-studying   machine learning, computer vision
-
-~/reno $ echo $STATUS
-open to project work and collaboration
-```
-
-## Selected Work
+## About Me
 
 <table>
   <tr>
-    <td valign="top">
-      <b><a href="https://github.com/Renohidayat/feb-unsap-exam">FEB UNSAP Exam &amp; Attendance System</a></b><br/>
-      Digital exam and attendance platform for the Faculty of Economics and Business at UNSAP: Flutter Android app, iOS PWA, and a React admin portal on a Firebase backend, designed for thousands of concurrent students.<br/>
-      <sub>Team of three. I was system analyst, architect, and lead backend developer: Firestore / Realtime Database split for live monitoring, Cloud Functions, a rate limiter against brute-force on login and exam codes, and batched push notifications.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-0d3060?style=flat-square&logo=flutter&logoColor=00F5FF" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/TypeScript-0d3060?style=flat-square&logo=typescript&logoColor=00F5FF" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Firebase-0d3060?style=flat-square&logo=firebase&logoColor=00F5FF" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/React-0d3060?style=flat-square&logo=react&logoColor=00F5FF" alt="React"/>
+    <td valign="top" width="55%">
+
+```bash
+~/reno $ whoami
+M. Reno Hidayat — Software Developer, Indonesia
+
+~/reno $ cat interests.md
+I mainly work with Flutter for mobile & desktop apps,
+Laravel and Node.js for backend services, and Python
+when theres a data science or automation project.
+
+Things I like to tinker with:
+ - Building WhatsApp & Telegram bots for local businesses
+ - Computer vision experiments with OpenCV & MediaPipe
+ - IoT stuff with ESP8266 and NodeMCU
+ - Finding ways to make my dev workflow less painful
+
+~/reno $ echo $STATUS
+Open to interesting projects and collaborations.
+Feel free to reach out!
+```
+
+</td>
+<td valign="top" width="45%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renohidayat&bg_color=0d1117&color=00F5FF&line=0066FF&point=00F5FF&hide_border=true&radius=8&area=true&area_color=002244" width="100%" alt="Activity Graph"/>
+
+<br/>
+
+```bash
+~/reno $ cat now.md
+ Working on : Flutter desktop apps
+ Learning   : AI/ML, Computer Vision
+ Building   : WhatsApp bots for clients
+ Stack      : Flutter + Laravel + Node.js
+```
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,php,dart,c,html,css&theme=dark&perline=10" alt="Languages"/>
+
+<br/><br/>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,tailwind&theme=dark&perline=10" alt="Frontend"/>
+
+<br/><br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,firebase,nginx&theme=dark&perline=10" alt="Backend"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=opencv,selenium,vscode,git,github,postman&theme=dark&perline=10" alt="Tools"/>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Renohidayat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true&hide=contribs" height="175" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Renohidayat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_radius=10&langs_count=8" height="175" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renohidayat/Renohidayat/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renohidayat/Renohidayat/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renohidayat/Renohidayat/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ScriptEase App</h3>
+      <p>A Windows word processor for writing theses. Has AI features to help with academic formatting and writing. Built with Flutter.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SIPENA UNSAP</h3>
+      <p>Academic grading system for FEB UNSAP. Handles student assessments, grade management, and exam data processing.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <b><a href="https://github.com/Renohidayat/scriptease_app">ScriptEase</a></b><br/>
-      Local-first academic word processor for Windows, aimed at Indonesian students writing theses. A Flutter UI talks to a Python FastAPI service for RAG over a PDF library, Zotero citation parsing, and APA / IEEE formatting.<br/>
-      <sub>In active development.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-0d3060?style=flat-square&logo=flutter&logoColor=00F5FF" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Python-0d3060?style=flat-square&logo=python&logoColor=00F5FF" alt="Python"/>
-      <img src="https://img.shields.io/badge/FastAPI-0d3060?style=flat-square&logo=fastapi&logoColor=00F5FF" alt="FastAPI"/>
+    <td width="50%" valign="top">
+      <h3>Web FEB UNSAP</h3>
+      <p>Faculty website for FEB UNSAP. A mobile-friendly web app built as a final project.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b><a href="https://github.com/Renohidayat/analisis-sentimen-ijazah-jokowi">Thesis: sentiment analysis of Indonesian YouTube comments</a></b><br/>
-      SVM with GridSearchCV on 2,561 labelled comments, with labels validated by three annotators (Fleiss' kappa 0.86). Best model: RBF kernel, 75.2% accuracy and 73.5% weighted F1.<br/>
-      <sub>SMOTE lowered test F1, and the repo documents a data leakage issue I found and fixed. Served through a FastAPI + React web app.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-0d3060?style=flat-square&logo=python&logoColor=00F5FF" alt="Python"/>
-      <img src="https://img.shields.io/badge/scikit--learn-0d3060?style=flat-square&logo=scikitlearn&logoColor=00F5FF" alt="scikit-learn"/>
+    <td width="50%" valign="top">
+      <h3>Analisis Sentimen Ijazah</h3>
+      <p>Sentiment analysis of YouTube comments about "Ijazah" using SVM and Grid Search. Part of a college research project.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     </td>
   </tr>
 </table>
 
-<!-- TODO: if the exam system ran a real exam, add the scale (students, sessions). A measured number beats "designed for". -->
+<br/>
 
-## Stack
-
-<div align="center">
-  <sub>DAILY USE</sub><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nodejs,react,python,fastapi,firebase&theme=dark&perline=8" alt="Flutter, Dart, TypeScript, Node.js, React, Python, FastAPI, Firebase"/>
-  <br/><br/>
-  <sub>ALSO USED</sub><br/>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nextjs,tailwind,docker,opencv,cpp&theme=dark&perline=8" alt="Laravel, PHP, MySQL, Next.js, Tailwind CSS, Docker, OpenCV, C++"/>
-</div>
-
-## Contact
+## Reach Me
 
 <div align="center">
-  Open to project work and collaboration: Flutter apps, Firebase / Node.js or Python backends, ML prototypes, chat bots.<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d3060?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/m-reno-hidayat-95b4a5372)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renohidayat)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0d3060?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:hidayatreno085@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renohidayt)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-reno-hidayat-95b4a5372)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hidayatreno085@gmail.com)
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt=""/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0066FF,100:0d1117&height=120&section=footer"/>
