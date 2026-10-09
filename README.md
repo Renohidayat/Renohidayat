@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-
+  <img src="https://komarev.com/ghpvc/?username=Renohidayat&style=flat-square&color=00F5FF&label=Views" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Renohidayat?label=Followers&style=flat-square&color=00F5FF&labelColor=0d1117" alt="Followers"/>
+</div>
 
 <br/>
 
@@ -35,7 +38,6 @@ Feel free to reach out!
 
 </td>
 <td valign="top" width="45%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renohidayat&bg_color=0d1117&color=00F5FF&line=0066FF&point=00F5FF&hide_border=true&radius=8&area=true&area_color=002244" width="100%" alt="Activity Graph"/>
 
 <br/>
 
